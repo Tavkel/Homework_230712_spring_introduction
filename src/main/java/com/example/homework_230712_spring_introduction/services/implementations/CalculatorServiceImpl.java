@@ -1,6 +1,6 @@
-package com.example.homework_230712_spring_introduction.Services.Implementations;
+package com.example.homework_230712_spring_introduction.services.implementations;
 
-import com.example.homework_230712_spring_introduction.Services.Interfaces.CalculatorService;
+import com.example.homework_230712_spring_introduction.services.interfaces.CalculatorService;
 import org.springframework.stereotype.Service;
 
 @Service
